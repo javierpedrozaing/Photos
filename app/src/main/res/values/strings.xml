@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PlatziGram</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_login">Login</string>
+    <string name="DontHaveAccount">No tienes cuenta?,  </string>
+    <string name="createHere">Crea una aquí</string>
+    <string name="hint_confirmpassword">Confirmar Contraseña</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nombre</string>
+    <string name="button_create">Crear Cuenta</string>
+    <string name="toolbar_title_register">Unete</string>
+    <string name="usernane_card">Uriel Ramirez</string>
+    <string name="txt_firstword_card">hace</string>
+    <string name="timecard">4 DIas</string>
+    <string name="likenumberCard_card">10 me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_perfil">Perfil</string>
+    <string name="secondword_detail">Me Gusta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleImage">Todo copas en la playa</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</string>
+    <string name="transition_name_picture">transitionNamePicture</string>
+</resources>

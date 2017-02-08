@@ -1,0 +1,34 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="EditTextSizeLogin">20sp</dimen>
+    <dimen name="horizontal_padding_login">32dp</dimen>
+    <dimen name="textSizeDonHaveAccount">16sp</dimen>
+    <dimen name="edtitext_margin_createaccount">10dp</dimen>
+    <dimen name="height_cardView">200dp</dimen>
+    <dimen name="cornerRadiusCardView">4dp</dimen>
+    <dimen name="textsize_username_card">25sp</dimen>
+    <dimen name="firstword_textsize_card">15sp</dimen>
+    <dimen name="timecard_marginleft">5dp</dimen>
+    <dimen name="like_margin_top_card">10dp</dimen>
+    <dimen name="bootom_bar_height">70dp</dimen>
+    <dimen name="appBarLayoutHeight">256dp</dimen>
+    <dimen name="usernameTextSizedetail">25sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textsize_likenumberdetail">15sp</dimen>
+    <dimen name="marginleft_secondword">7dp</dimen>
+    <dimen name="heigh_divider">1dp</dimen>
+    <dimen name="padding_top_title">20dp</dimen>
+    <dimen name="padding_horizontal_textcontentdetail">35dp</dimen>
+    <dimen name="txtUsername_profile">30dp</dimen>
+    <dimen name="circule_imagen_profile">160dp</dimen>
+    <dimen name="margintop_circleimageprofile">30dp</dimen>
+    <dimen name="elevation_circleimageprofile">30dp</dimen>
+    <dimen name="LimitY_circleImage">-206dp</dimen>
+    <dimen name="margin_top_circleimageprofile">-5dp</dimen>
+    <dimen name="with_circleimageprofile">40dp</dimen>
+    <dimen name="height_circleimageprofile">40dp</dimen>
+    <dimen name="textsize_username_toolbarprofile">15dp</dimen>
+    <dimen name="LimitY_usernametoolbar_profile">-150dp</dimen>
+</resources>
